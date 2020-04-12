@@ -1,0 +1,5 @@
+.idea/
+
+###> docker ###
+.docker/data/*
+### < docker ###
